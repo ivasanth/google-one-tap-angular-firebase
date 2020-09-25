@@ -1,4 +1,27 @@
 # OneTap
+Learn Google One Tap integration with Firebase and Angular
+
+[Google One Tap integration](https://mobilelabs.in/learn-google-one-tap-integration-with-firebase-and-angular/)
+
+## Setup
+Set you firebase config in `enviorment.ts`
+```typescript
+export const environment = {
+  production: false,
+  client_id: '',
+  firebase: { HERE }
+};
+```
+
+Set you client ID in `enviorment.ts`
+```typescript
+export const environment = {
+  production: false,
+  client_id: HERE,
+  firebase: {}
+};
+```
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 

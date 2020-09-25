@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "okaylancer": {
+      "hosting": {
+        "one-tap": [
+          "okaylancer"
+        ]
+      }
+    }
+  }
+}
